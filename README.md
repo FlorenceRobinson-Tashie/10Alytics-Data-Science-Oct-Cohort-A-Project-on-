@@ -1,1 +1,1 @@
-# 10Alytics-Data-Science-Oct-Cohort-A Project on
+# 10Alytics Data Science Oct Cohort; a Project on
